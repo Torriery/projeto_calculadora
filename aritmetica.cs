@@ -1,4 +1,5 @@
-public class Aritmetica_taro
+namespace Calculadora_taro.Lib;
+public class calculadora_taro
 {
     public static void Soma()
     {
@@ -141,7 +142,7 @@ public class Aritmetica_taro
         else if (numero2 <= 0)
         {
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("Não existe a raiz zero de um número");
+            Console.WriteLine("Não existe a raiz de um numero zero");
             Console.ResetColor();
         }
         else
