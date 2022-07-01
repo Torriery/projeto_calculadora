@@ -2,7 +2,7 @@
 [Clique aqui para baixar](https://github.com/Torriery/projeto_calculadora/raw/main/Calculadora_Taro.zip)
 
 ### Sobre o criador:
-Esse programa foi feito por um iniciante em programação que deseja melhorar suas propias abilidades.
+Esse programa foi feito por um iniciante em programação que deseja melhorar suas propias habilidades.
 
 ### Sobre o programa:
 Esse e uma calculadora feita em c# que pode realizar operações matematicas simples.
