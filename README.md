@@ -16,4 +16,8 @@ Esse e uma calculadora feita em c# que pode realizar operações matematicas sim
 - Radiciação.
 
 ### Homenagems:
-Eu o menageio [Ermogenes Palacio](https://github.com/ermogenes) e [Diego Neri de Souza Felix](https://github.com/diegoneri) por serem profesores muito bons e um amigo/colega [Sebastian-Devus](https://github.com/SebastianDevus) que me ajudou nesse processo.
+Eu o menageio [Ermogenes Palacio](https://github.com/ermogenes) e [Diego Neri de Souza Felix](https://github.com/diegoneri) por serem profesores muito bons E um amigo/colega [Sebastian-Devus](https://github.com/SebastianDevus) que me ajudou nesse processo.
+
+### Criador:
+[Torriery](https://github.com/Torriery)
+ 
