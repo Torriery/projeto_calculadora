@@ -1,3 +1,5 @@
+![calculadora](https://user-images.githubusercontent.com/100001128/176980245-ac44ba23-eb9e-4555-9745-efab59f0763e.png)
+
 # projeto_calculadora
 [Clique aqui para baixar](https://github.com/Torriery/projeto_calculadora/raw/main/Calculadora_Taro.zip)
 
